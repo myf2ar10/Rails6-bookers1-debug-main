@@ -17,6 +17,9 @@ rails db:migrateする
 
 消える
 
+1610
+答え
+
 20230912
 2130
 /Rails6-bookers1-debug-main/config/routes.rb
